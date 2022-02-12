@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### About me
+     I am Shiju, Full Stack Software Developer and Software Architect. More than 20 years of Software Development Experience.
+
+
 <!--
 **shijumon/shijumon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
