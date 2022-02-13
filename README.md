@@ -5,7 +5,7 @@
 
 ### Github status
 
-[![Shiju's Github Stats](https://github-readme-stats.vercel.app/api?username=shijumon&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/shijumon/github-readme-stats)
+[![Shiju's Github Stats](https://github-readme-stats.vercel.app/api?username=shijumon&count_private=true&show_icons=true&theme=radical&hide_rank=false&include_all_commits=true)](https://github.com/shijumon/github-readme-stats)
 
 ### Most Used Languages
 
