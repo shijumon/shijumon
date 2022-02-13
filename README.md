@@ -7,6 +7,10 @@
 
 [![Shiju's Github Stats](https://github-readme-stats.vercel.app/api?username=shijumon&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/shijumon/github-readme-stats)
 
+### Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shijumon)](https://github.com/shijumon/github-readme-stats)
+
 <!--
 **shijumon/shijumon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
