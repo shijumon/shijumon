@@ -3,6 +3,9 @@
 ### About me
      I am Shiju, Full Stack Software Developer and Software Architect. More than 20 years of Software Development Experience.
 
+### Github status
+
+[![Shiju's Github Stats](https://github-readme-stats.vercel.app/api?username=shijumon&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/shijumon/github-readme-stats)
 
 <!--
 **shijumon/shijumon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
