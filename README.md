@@ -7,6 +7,10 @@
 
 [![Shiju's Github Stats](https://github-readme-stats.vercel.app/api?username=shijumon&count_private=true&show_icons=true&theme=radical&hide_rank=false&include_all_commits=true)](https://github.com/shijumon/github-readme-stats)
 
+### Daily DevCard
+
+<a href="https://app.daily.dev/codebrain"><img src="https://api.daily.dev/devcards/d135a0126ebd40d6b841d41f6d2a61a2.png?r=b0k" width="400" alt="Shiju AK's Dev Card"/></a>
+
 ### ✉️ Find me on:
 
 
