@@ -9,7 +9,7 @@
 
 ### Daily DevCard
 
-<a href="https://app.daily.dev/codebrain"><img src="https://api.daily.dev/devcards/d135a0126ebd40d6b841d41f6d2a61a2.png?r=b0k" width="400" alt="Shiju AK's Dev Card"/></a>
+<a href="https://app.daily.dev/codebrain"><img src="https://api.daily.dev/devcards/d135a0126ebd40d6b841d41f6d2a61a2.png?r=0cp" width="400" alt="Shiju AK's Dev Card"/></a>
 
 ### ✉️ Find me on:
 
